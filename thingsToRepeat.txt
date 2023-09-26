@@ -1,0 +1,29 @@
+Focus of this minimum of information, other materials you can learn without priority
+
+1. Go with documentation order
+2. If decide to skip some paragraph -> write out it
+3. After documentation go back and read about topics which were wrote out.
+
+
+============================
+Things to read about
+
+From documentation:
+[] structs
+[] value types and reference types
+
+In my opinion:
+[] lambda functions
+[] try catch
+[] propertieps
+[] interfaces https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/interface-properties
+[] access modifiers in C#
+[] working with strings on C#
+[] basic data structures: array, list, queue, stack
+[] for / foreach repeat with some examples
+[] exceptions in C#
+[] what is generics?
+[] iterators and working with them
+[] indexers
+[] covariance and contrvariance
+[] async / await

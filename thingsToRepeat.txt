@@ -13,12 +13,12 @@ From documentation:
 [] value types and reference types
 
 In my opinion:
+[] working with strings in c#
 [] lambda functions
 [] try catch
 [] propertieps
 [] interfaces https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/interface-properties
 [] access modifiers in C#
-[] working with strings on C#
 [] basic data structures: array, list, queue, stack
 [] for / foreach repeat with some examples
 [] exceptions in C#

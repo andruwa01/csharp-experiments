@@ -1,6 +1,7 @@
 Focus of this minimum of information, other materials you can learn without priority
 
-1. Go with documentation order
+0. Go with documentation order in geekForGeeks.
+1. Go to documentation of microsoft website and then go learning in order.
 2. If decide to skip some paragraph -> write out it
 3. After documentation go back and read about topics which were wrote out.
 

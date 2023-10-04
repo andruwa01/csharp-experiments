@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Reflection.Metadata;
+using System.Threading.Channels;
 class Program{
-        
+
         static void Main(string[] args){
-            int a = 0b1010;
-            int b = 0b1010101;
-            Console.WriteLine("Two nubmers: {0} and {1}", a, b);
+            int a = 5;
+            string s = a.ToString();
+            Console.WriteLine(s);
         }
     }

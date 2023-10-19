@@ -1,21 +1,9 @@
-36:14
-
-Focus of this minimum of information, other materials you can learn without priority
-
-0. Go with documentation order in geekForGeeks.
-1. Go to documentation of microsoft website and then go learning in order.
-2. If decide to skip some paragraph -> write out it
-3. After documentation go back and read about topics which were wrote out.
-
+Part #5
 
 ============================
 Things to read about
 
-From documentation:
-[] structs
-[] value types and reference types
-
-In my opinion:
+[] arrays + lists in C#
 [] working with strings in c#
 [] lambda functions
 [] try catch

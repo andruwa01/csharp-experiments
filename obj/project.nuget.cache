@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEsNFVnjC4zpbH/uvx1pMysPl3ZfzbN44KSMLNIsFLez61Y4KT3ntae7LQ1CvIXfjWyhRtgPZCNrV8vUT04J6Q==",
+  "dgSpecHash": "MN4n85fg54r3+N9ICSDmHbDHZMfbz5hz0YIMJ3SERQLkYVwwF0k55lu1P8xnYH4Ua/Y8NWl3/ixMDnb3eoiCRA==",
   "success": true,
-  "projectFilePath": "/home/user/Documents/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\chepr\\OneDrive\\Документы\\sharpClone\\csharp-experiments\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

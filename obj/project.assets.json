@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/user/.nuget/packages/": {}
+    "C:\\Users\\chepr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/Documents/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\chepr\\OneDrive\\Документы\\sharpClone\\csharp-experiments\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/user/Documents/HelloWorld/HelloWorld.csproj",
-      "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/Documents/HelloWorld/obj/",
+      "projectPath": "C:\\Users\\chepr\\OneDrive\\Документы\\sharpClone\\csharp-experiments\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\chepr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chepr\\OneDrive\\Документы\\sharpClone\\csharp-experiments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\chepr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

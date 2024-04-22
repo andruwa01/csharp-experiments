@@ -1,5 +1,7 @@
-﻿class Program{
+﻿using System;
+using System.Collections;
+
+class Program{
         static void Main(string[] args){
-            System.Console.WriteLine("Hello world");            
         }
     }
